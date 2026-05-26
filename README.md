@@ -1,6 +1,6 @@
 Smart Factory Monitoring System
 
-Overview
+Overview : 
 The Smart Factory Monitoring System is an IoT-based industrial monitoring project developed to monitor factory parameters in real time using Arduino, PICSimLab, and ThingsBoard. The system helps in improving industrial monitoring, automation, and operational efficiency through sensor-based data collection and cloud dashboard visualization.
 
 
@@ -32,14 +32,13 @@ Project Workflow
 
 Folder Structure
 
-Smart-Factory-Monitoring-System/
-│
-├── Arduino_Code/
-├── Picsimlab_Simulation/
-├── Thingsboard_Setup/
-├── Output_Screenshots/
-├── Project_Presentation/
-└── README.md
+Smart-Factory-Monitoring-System
+ 1. Arduino_Code
+ 2. Picsimlab_Simulation
+ 3. Thingsboard_Setup
+ 4. Output_Screenshots
+ 5. Project_Presentation
+ 6. README.md
 
 
 
@@ -54,6 +53,7 @@ Future Enhancements
 - Advanced industrial analytics
 - Real-time alert notifications
 
+Note : The uploaded dashboard screenshots represent the project during devolopment. Live cloud monitoring is currently inactive.
 
-Author
-Vallamkonda Dhanyara Sri Lalitha
+
+Author : Vallamkonda Dhanyara Sri Lalitha
